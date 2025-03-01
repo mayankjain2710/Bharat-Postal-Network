@@ -117,10 +117,6 @@ Find the nearest post office based on address and pincode.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - India Post for providing post office data
